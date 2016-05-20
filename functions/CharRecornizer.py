@@ -5,7 +5,7 @@ import Recornizer
 import cv2 as cv
 import Segmentation
 import copy
-#import skimage.transform
+import skimage.transform
 
 
 # 待识别图片预处理
